@@ -1,1 +1,1 @@
-Fetching JSON files with fake API in ReactJS
+Fetching JSON files with fake API in ReactJS (work it in terminal)
