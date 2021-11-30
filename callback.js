@@ -1,7 +1,3 @@
-// setInterval(() => {
-//     console.log("hello");
-// }, 1000);
-
 import fetch from 'node-fetch';
 
 fetch ("https://jsonplaceholder.typicode.com/users")
